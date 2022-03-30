@@ -8,6 +8,7 @@ import {
 
 import { Navbar } from './app/Navbar'
 
+//small push
 function App() {
   return (
     <Router>
